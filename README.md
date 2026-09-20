@@ -1,35 +1,68 @@
-# 🥗 Plataforma Minha Refeição — Serviço de Assinatura de Marmitas
+<div align="center">
 
-> **Projeto de Software — 2º Semestre / 2026**  
-> **Faculdade de Computação e Informática (FCI) — Universidade Presbiteriana Mackenzie**  
+# 🥗 Plataforma Minha Refeição
+### Engenharia de Software — Serviço de Assinatura de Marmitas
+
+[![Mackenzie](https://img.shields.io/badge/FCI-Mackenzie-red.svg)](https://www.mackenzie.br/)
+[![Curso](https://img.shields.io/badge/Ciência_da_Computação-2º_Sem/2026-blue.svg)](#)
+[![UML 2.0](https://img.shields.io/badge/Modelagem-UML_2.0-orange.svg)](#)
+[![Wiki](https://img.shields.io/badge/Documentação-GitHub_Wiki-brightgreen.svg)](../../wiki)
+
+<p align="center">
+  <b>Repositório de entregáveis do projeto prático da disciplina Projeto de Software</b><br>
+  Professora: Dra. Ana Claudia Rossi
+</p>
+
+---
+
+### 👤 Autor do Projeto
+**Felipe Torte Pereira** — RA: `10417070`  
+Faculdade de Computação e Informática (FCI) — Universidade Presbiteriana Mackenzie
+
+</div>
 
 ---
 
-## 📌 Identificação do Aluno / Grupo
+## 🧭 Onde encontrar cada item da entrega?
 
-* **Nome:** Felipe Torte Pereira
-* **RA:** 10417070
-* **Curso:** Ciência da Computação
-* **Disciplina:** Projeto de Software
+Para manter o projeto organizado e de fácil navegação para correção, a entrega foi dividida entre a **Wiki** (documentação analítica e fluxos visuais) e a aba **Code** (arquivos-fonte e editáveis nativos):
 
 ---
 
-## 📖 Guia Rápido
+## 🚀 1. Documentação Completa (Acesse na Wiki)
 
-> **O que é este sistema?**  
-> É um e-commerce por assinatura focado em marmitas prontas. O cliente escolhe um plano periódico (semanal, quinzenal ou mensal), filtra suas restrições alimentares, seleciona os pratos e acompanhamentos de cada dia, informa o endereço e fecha o pagamento via cartão de crédito.
->
-> **O que está documentado aqui?**  
-> 1. A navegação visual completa do **Fluxo Principal (Caminho Feliz)** de ponta a ponta (Passos 1 a 32 do caso de uso).  
-> 2. O protótipo das telas esquematizadas.  
-> 3. A gravação em vídeo demonstrando o funcionamento e as responsabilidades.
+Toda a fundamentação conceitual, o detalhamento das telas do protótipo e as justificativas técnicas estão estruturadas nas páginas da nossa Wiki:
 
-
-## 📋 Cenário de Uso: Assinar Plano de Refeições
-
-* **Ator Principal:** Assinante (Cliente)
-* **Ator Secundário:** Operadora de Cartão de Crédito (Gateway externo)
-* **Pré-condições:** Planos de assinatura cadastrados no sistema e cardápio semanal atualizado.
-* **Pós-condições:** Assinante validado por SMS, plano ativo, pratos selecionados, endereço gravado e transação confirmada pela operadora com protocolo emitido.
+* 📱 [**Home / Protótipo de Telas & Vídeo**](../../wiki/Home)
+  * Mapeamento dos **32 passos do Fluxo Principal (Caminho Feliz)**.
+  * Demonstração das 8 telas do protótipo e tratamento dos fluxos alternativos (FA1, FA2 e FA3).
+  * Link para o vídeo explicativo da entrega e divisão de responsabilidades.
+* 🏛️ [**Diagrama de Classes de Domínio**](../../wiki/Diagrama-de-Classes-de-Dominio)
+  * Diagrama renderizado em tela cheia via **Mermaid** e imagens de alta fidelidade.
+  * Dicionário conceitual de classes baseado no método de Booch e Rumbaugh.
+  * Justificativas de cardinalidades, composições e agregações.
 
 ---
+
+## 📁 2. Entregáveis e Fontes do Projeto (Aba Code)
+
+Os arquivos editáveis e entregáveis formais estão versionados neste repositório:
+
+| Arquivo | Descrição | Formato |
+| :--- | :--- | :---: |
+| 📊 `Prototipo_MinhaRefeicao.pptx` | Apresentação oficial dos slides com o protótipo de alta fidelidade | `.pptx` |
+| 📐 `diagramadeclasses.drawio` | Diagrama de classes editável no **Draw.io** | `.drawio` |
+
+---
+
+## 🛠️ Tecnologias e Ferramentas Empregadas
+
+* **Modelagem de Domínio:** SAP PowerDesigner, Draw.io e Mermaid.js.
+* **Prototipação de Telas:** Microsoft PowerPoint / Copilot UX Scaffolding.
+* **Controle de Versão e Documentação:** Git, GitHub e GitHub Wiki (Markdown).
+
+---
+
+<div align="center">
+  <sub>Desenvolvido para fins acadêmicos — FCI Mackenzie (2026)</sub>
+</div>
