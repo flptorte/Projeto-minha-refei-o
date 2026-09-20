@@ -57,8 +57,8 @@ Os arquivos editáveis e entregáveis formais estão versionados neste repositó
 
 ## 🛠️ Tecnologias e Ferramentas Empregadas
 
-* **Modelagem de Domínio:** SAP PowerDesigner, Draw.io e Mermaid.js.
-* **Prototipação de Telas:** Microsoft PowerPoint / Copilot UX Scaffolding.
+* **Modelagem de Domínio:** Draw.io e Mermaid.js.
+* **Prototipação de Telas:** Microsoft PowerPoint
 * **Controle de Versão e Documentação:** Git, GitHub e GitHub Wiki (Markdown).
 
 ---
