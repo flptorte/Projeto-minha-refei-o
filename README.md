@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🥗 Plataforma Minha Refeição
-### Engenharia de Software — Serviço de Assinatura de Marmitas
+### Projeto de Software — Serviço de Assinatura de Marmitas
 
 [![Mackenzie](https://img.shields.io/badge/FCI-Mackenzie-red.svg)](https://www.mackenzie.br/)
 [![Curso](https://img.shields.io/badge/Ciência_da_Computação-2º_Sem/2026-blue.svg)](#)
