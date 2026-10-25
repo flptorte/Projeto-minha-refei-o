@@ -4,7 +4,7 @@
 ### Projeto de Software — Serviço de Assinatura de Marmitas
 
 [![Mackenzie](https://img.shields.io/badge/FCI-Mackenzie-red.svg)](https://www.mackenzie.br/)
-[![Curso](https://img.shields.io/badge/Ciência_da_Computação-2º_Sem/2026-blue.svg)](#)
+[![Curso](https://img.shields.io/badge/Ciência_da_Computação-4º_Sem/2026-blue.svg)](#)
 [![UML 2.0](https://img.shields.io/badge/Modelagem-UML_2.0-orange.svg)](#)
 [![Wiki](https://img.shields.io/badge/Documentação-GitHub_Wiki-brightgreen.svg)](../../wiki)
 
