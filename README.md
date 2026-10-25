@@ -15,8 +15,9 @@
 
 ---
 
-### 👤 Autor do Projeto
+### 👤 Autores do Projeto
 **Felipe Torte Pereira** — RA: `10417070`  
+**Marcelo Kenzo Okamoto** — RA: `10439244`
 Faculdade de Computação e Informática (FCI) — Universidade Presbiteriana Mackenzie
 
 </div>
