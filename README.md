@@ -68,7 +68,7 @@ Os arquivos editáveis e entregáveis formais estão versionados neste repositó
 
 ## 🛠️ Tecnologias e Ferramentas Empregadas
 
-- **Modelagem de Domínio, Sequência e Projeto:** Draw.io, SAP PowerDesigner e UML 2.0.
+- **Modelagem de Domínio, Sequência e Projeto:** Draw.io e UML 2.0.
 - **Prototipação de Telas:** Microsoft PowerPoint.
 - **Controle de Versão e Documentação:** Git, GitHub e GitHub Wiki (Markdown).
 
