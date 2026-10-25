@@ -35,17 +35,17 @@ Para manter o projeto organizado e de fácil navegação para correção, a entr
 Toda a fundamentação conceitual, o detalhamento das telas do protótipo e as justificativas técnicas estão estruturadas nas páginas da nossa Wiki:
 
 - 📱 [**Home / Protótipo de Telas & Vídeo**](../../wiki/Home)
-  * Mapeamento dos **32 passos do Fluxo Principal (Caminho Feliz)**[cite: 1].
-  * Demonstração das 8 telas do protótipo e tratamento dos fluxos alternativos (FA1, FA2 e FA3)[cite: 3].
+  * Mapeamento dos **32 passos do Fluxo Principal (Caminho Feliz)**.
+  * Demonstração das 8 telas do protótipo e tratamento dos fluxos alternativos.
   * Link para o vídeo explicativo da entrega e divisão de responsabilidades.
 - 🏛️ [**Diagrama de Classes de Domínio**](../../wiki/Diagrama-de-Classes-de-Dominio)
   * Diagrama renderizado em tela cheia via **Mermaid** e imagens de alta fidelidade.
-  * Dicionário conceitual de classes baseado no método de Booch e Rumbaugh[cite: 5, 6].
-  * Justificativas de cardinalidades, composições e agregações[cite: 6].
+  * Dicionário conceitual de classes.
+  * Justificativas de cardinalidades, composições e agregações.
 - ⚡ [**Diagrama de Sequência**](../../wiki/Diagrama-de-Sequencia)
-  * Diagrama de interação baseado no padrão arquitetural BCE (*Boundary-Control-Entity*) segundo Bezerra (2015)[cite: 8, 9].
-  * Representação modular com fragmentos combinados (`alt`, `loop`) tratando os fluxos alternativos de negócio[cite: 14, 15, 16].
-  * Mapeamento de coleções e troca de mensagens síncronas/assíncronas[cite: 11, 12, 16].
+  * Diagrama de interação.
+  * Representação modular com fragmentos combinados tratando os fluxos alternativos de negócio.
+  * Mapeamento de coleções e troca de mensagens síncronas/assíncronas.
 
 ---
 
