@@ -16,8 +16,8 @@
 ---
 
 ### 👤 Autores do Projeto
-**Felipe Torte Pereira** — RA: `10417070`
-**Marcelo Kenzo Okamoto** — RA: `10439244`
+**Felipe Torte Pereira** — RA: `10417070`  
+**Marcelo Kenzo Okamoto** — RA: `10439244`  
 Faculdade de Computação e Informática (FCI) — Universidade Presbiteriana Mackenzie
 
 </div>
@@ -34,14 +34,18 @@ Para manter o projeto organizado e de fácil navegação para correção, a entr
 
 Toda a fundamentação conceitual, o detalhamento das telas do protótipo e as justificativas técnicas estão estruturadas nas páginas da nossa Wiki:
 
-* 📱 [**Home / Protótipo de Telas & Vídeo**](../../wiki/Home)
-  * Mapeamento dos **32 passos do Fluxo Principal (Caminho Feliz)**.
-  * Demonstração das 8 telas do protótipo e tratamento dos fluxos alternativos (FA1, FA2 e FA3).
+- 📱 [**Home / Protótipo de Telas & Vídeo**](../../wiki/Home)
+  * Mapeamento dos **32 passos do Fluxo Principal (Caminho Feliz)**[cite: 1].
+  * Demonstração das 8 telas do protótipo e tratamento dos fluxos alternativos (FA1, FA2 e FA3)[cite: 3].
   * Link para o vídeo explicativo da entrega e divisão de responsabilidades.
-* 🏛️ [**Diagrama de Classes de Domínio**](../../wiki/Diagrama-de-Classes-de-Dominio)
+- 🏛️ [**Diagrama de Classes de Domínio**](../../wiki/Diagrama-de-Classes-de-Dominio)
   * Diagrama renderizado em tela cheia via **Mermaid** e imagens de alta fidelidade.
-  * Dicionário conceitual de classes baseado no método de Booch e Rumbaugh.
-  * Justificativas de cardinalidades, composições e agregações.
+  * Dicionário conceitual de classes baseado no método de Booch e Rumbaugh[cite: 5, 6].
+  * Justificativas de cardinalidades, composições e agregações[cite: 6].
+- ⚡ [**Diagrama de Sequência**](../../wiki/Diagrama-de-Sequencia)
+  * Diagrama de interação baseado no padrão arquitetural BCE (*Boundary-Control-Entity*) segundo Bezerra (2015)[cite: 8, 9].
+  * Representação modular com fragmentos combinados (`alt`, `loop`) tratando os fluxos alternativos de negócio[cite: 14, 15, 16].
+  * Mapeamento de coleções e troca de mensagens síncronas/assíncronas[cite: 11, 12, 16].
 
 ---
 
@@ -53,14 +57,15 @@ Os arquivos editáveis e entregáveis formais estão versionados neste repositó
 | :--- | :--- | :---: |
 | 📊 `Prototipo_MinhaRefeicao.pptx` | Apresentação oficial dos slides com o protótipo de alta fidelidade | `.pptx` |
 | 📐 `diagramadeclasses.drawio` | Diagrama de classes editável no **Draw.io** | `.drawio` |
+| ⚡ `Diagrama_Sequencia.drawio` | Diagrama de sequência do caso de uso editável no **Draw.io** | `.drawio` |
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas Empregadas
 
-* **Modelagem de Domínio:** Draw.io e Mermaid.js.
-* **Prototipação de Telas:** Microsoft PowerPoint
-* **Controle de Versão e Documentação:** Git, GitHub e GitHub Wiki (Markdown).
+- **Modelagem de Domínio e Sequência:** Draw.io e Mermaid.js.
+- **Prototipação de Telas:** Microsoft PowerPoint
+- **Controle de Versão e Documentação:** Git, GitHub e GitHub Wiki (Markdown).
 
 ---
 
